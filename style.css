@@ -31,7 +31,7 @@ body {
 }
 
 .main {
-    background-image: url(Assets/images/BACK.jpg);
+    background-image: url(Assets/images/back.jpg);
     background-position: center center;
     height: 90vh;
 }
